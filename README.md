@@ -1,2 +1,2 @@
 # Spam-Detector-System
-Spa Detector System
+Spam Detector System
